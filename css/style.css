@@ -1,0 +1,17 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+    
+    height: 100px;
+    margin: 50px 0;
+}
+
